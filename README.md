@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Youssef Mohamed  
+# Youssef Mohamed  
 
-💻 **Full-Stack Web Developer** | ⚡ **JavaScript Lover**  
-
-I build modern, scalable, and user-friendly web applications. Passionate about clean code, performance, and great user experiences.  
+💻 **Full-Stack Web Developer** 
+  
 
 ---
 
@@ -38,7 +37,6 @@ I build modern, scalable, and user-friendly web applications. Passionate about c
 - 🔭 I’m currently working on full-stack projects using React, Next.js, and Node.js  
 - 🌱 Always learning and exploring new web technologies  
 - 💬 Ask me about JavaScript, React, Next.js, Node, and database design  
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions  
 
 ---
 
