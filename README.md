@@ -1,8 +1,8 @@
-# Youssef Mohamed
+# Yousef Mohamed
 
 Full-Stack Web Developer.
 
-## Tech
+## Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react" />
