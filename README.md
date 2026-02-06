@@ -5,7 +5,7 @@
 ###  Technical Skills
 
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
   </a>
   &nbsp;
