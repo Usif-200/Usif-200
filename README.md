@@ -1,8 +1,6 @@
 # Yousef Mohamed
 **Full-Stack Web Developer**
 
----
-
 ### Technical Skills
 
 <p align="left">
