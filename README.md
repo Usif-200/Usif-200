@@ -1,6 +1,7 @@
 # Yousef Mohamed
 **Full-Stack Web Developer**
 
+
 ###  Technical Skills
 
 <p align="left">
@@ -13,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45" style="background-color: white; border-radius: 50%;"/>
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -38,7 +39,7 @@
   </a>
   &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" style="background-color: white; border-radius: 5px;"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -69,7 +70,7 @@
 
 ---
 
-### Contact Me
+###  Contact Me
 <p align="left">
   <a href="mailto:yousefbeats808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
